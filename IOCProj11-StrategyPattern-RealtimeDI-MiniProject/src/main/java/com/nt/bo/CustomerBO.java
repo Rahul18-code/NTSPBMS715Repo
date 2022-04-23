@@ -39,5 +39,4 @@ public class CustomerBO {
 		this.intramt = intramt;
 	}
 	
-
 }
