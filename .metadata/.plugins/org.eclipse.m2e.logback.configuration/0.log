@@ -1,0 +1,163 @@
+2022-04-23 13:18:18,836 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-23 13:19:57,609 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:SpringCoreProj01-SetterInjection:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\pom.xml.
+2022-04-23 13:19:57,617 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj02-CoreBasics:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\pom.xml.
+2022-04-23 13:20:00,050 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:00,050 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\main\resources
+2022-04-23 13:20:00,057 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:00,057 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\test\resources
+2022-04-23 13:20:00,703 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj02-CoreBasics:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\pom.xml.
+2022-04-23 13:20:00,789 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:00,790 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\main\resources
+2022-04-23 13:20:00,793 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:00,794 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\test\resources
+2022-04-23 13:20:01,098 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:SpringCoreProj01-SetterInjection:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj03-ConstructorInjection\pom.xml.
+2022-04-23 13:20:01,365 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:01,366 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj03-ConstructorInjection\src\main\resources
+2022-04-23 13:20:01,369 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:01,369 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj03-ConstructorInjection\src\test\resources
+2022-04-23 13:20:01,583 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:SpringCoreProj01-SetterInjection:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj04-CircularInjection\pom.xml.
+2022-04-23 13:20:01,760 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:01,760 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj04-CircularInjection\src\main\resources
+2022-04-23 13:20:01,765 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:01,766 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj04-CircularInjection\src\test\resources
+2022-04-23 13:20:01,934 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj05-FactoryPattern-Problem-Solution:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj05-FactoryPattern-Problem\pom.xml.
+2022-04-23 13:20:02,030 [Worker-10: Building] ERROR o.e.m.jdt.internal.BuildPathManager - org.eclipse.core.runtime.OperationCanceledException
+org.eclipse.jdt.core.JavaModelException: org.eclipse.core.runtime.OperationCanceledException
+	at org.eclipse.jdt.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:128)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2315)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2340)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.core.JavaCore.setClasspathContainer(JavaCore.java:5993)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:210)
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:196)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:305)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:860)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:232)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:281)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:334)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:337)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:392)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:417)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.OperationCanceledException: null
+	at org.eclipse.core.runtime.SubMonitor.checkCanceled(SubMonitor.java:602)
+	at org.eclipse.core.internal.resources.Resource.touch(Resource.java:1758)
+	at org.eclipse.core.internal.resources.Project.touch(Project.java:1324)
+	at org.eclipse.jdt.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:122)
+	... 29 common frames omitted
+2022-04-23 13:20:02,099 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:02,100 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj05-FactoryPattern-Problem\src\main\resources
+2022-04-23 13:20:02,106 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:02,107 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj05-FactoryPattern-Problem\src\test\resources
+2022-04-23 13:20:02,626 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj02-CoreBasics:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\pom.xml.
+2022-04-23 13:20:03,032 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj05-FactoryPattern-Problem-Solution:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj06-FactoryPattern-Solution\pom.xml.
+2022-04-23 13:20:03,180 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:03,180 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj06-FactoryPattern-Solution\src\main\resources
+2022-04-23 13:20:03,189 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:03,189 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj06-FactoryPattern-Solution\src\test\resources
+2022-04-23 13:20:03,649 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj05-FactoryPattern-Problem-Solution:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj07-FactoryPattern-Solution-UsingGenerics\pom.xml.
+2022-04-23 13:20:03,744 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:03,744 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj07-FactoryPattern-Solution-UsingGenerics\src\main\resources
+2022-04-23 13:20:03,750 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:03,751 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj07-FactoryPattern-Solution-UsingGenerics\src\test\resources
+2022-04-23 13:20:04,024 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj08-StrategyPattern-CoreJAva:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj08-StrategyPattern-CoreJAva\pom.xml.
+2022-04-23 13:20:04,113 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,114 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj08-StrategyPattern-CoreJAva\src\main\resources
+2022-04-23 13:20:04,121 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,122 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj08-StrategyPattern-CoreJAva\src\test\resources
+2022-04-23 13:20:04,348 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj08-StrategyPattern-CoreJAva:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj09-StrategyPattern-CoreJAva-PropertiesFile\pom.xml.
+2022-04-23 13:20:04,409 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,410 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj09-StrategyPattern-CoreJAva-PropertiesFile\src\main\resources
+2022-04-23 13:20:04,413 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,413 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj09-StrategyPattern-CoreJAva-PropertiesFile\src\test\resources
+2022-04-23 13:20:04,648 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj08-StrategyPattern-CoreJAva:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj10-StrategyPattern-Spring\pom.xml.
+2022-04-23 13:20:04,846 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,846 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj10-StrategyPattern-Spring\src\main\resources
+2022-04-23 13:20:04,850 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:04,850 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj10-StrategyPattern-Spring\src\test\resources
+2022-04-23 13:20:05,736 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj02-CoreBasics:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\pom.xml.
+2022-04-23 13:20:09,263 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:09,263 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\main\resources
+2022-04-23 13:20:09,266 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:09,266 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\test\resources
+2022-04-23 13:20:09,600 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:IOCProj11-StrategyPattern-RealtimeDI-MiniProject:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj11-StrategyPattern-RealtimeDI-MiniProject\pom.xml.
+2022-04-23 13:20:10,096 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:10,096 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj11-StrategyPattern-RealtimeDI-MiniProject\src\main\resources
+2022-04-23 13:20:10,099 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:10,100 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj11-StrategyPattern-RealtimeDI-MiniProject\src\test\resources
+2022-04-23 13:20:19,820 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:19,821 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\main\resources
+2022-04-23 13:20:19,825 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:19,826 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\test\resources
+2022-04-23 13:20:19,905 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:19,905 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\main\resources
+2022-04-23 13:20:19,908 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:19,910 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj02-CoreBasics\src\test\resources
+2022-04-23 13:20:20,023 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,024 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj03-ConstructorInjection\src\main\resources
+2022-04-23 13:20:20,029 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,029 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj03-ConstructorInjection\src\test\resources
+2022-04-23 13:20:20,158 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,159 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj04-CircularInjection\src\main\resources
+2022-04-23 13:20:20,167 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,167 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj04-CircularInjection\src\test\resources
+2022-04-23 13:20:20,266 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,266 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj05-FactoryPattern-Problem\src\main\resources
+2022-04-23 13:20:20,269 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,270 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj05-FactoryPattern-Problem\src\test\resources
+2022-04-23 13:20:20,356 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,357 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj06-FactoryPattern-Solution\src\main\resources
+2022-04-23 13:20:20,360 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,360 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj06-FactoryPattern-Solution\src\test\resources
+2022-04-23 13:20:20,433 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,433 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj07-FactoryPattern-Solution-UsingGenerics\src\main\resources
+2022-04-23 13:20:20,436 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,436 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj07-FactoryPattern-Solution-UsingGenerics\src\test\resources
+2022-04-23 13:20:20,532 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,533 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj08-StrategyPattern-CoreJAva\src\main\resources
+2022-04-23 13:20:20,536 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,536 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj08-StrategyPattern-CoreJAva\src\test\resources
+2022-04-23 13:20:20,607 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,607 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj09-StrategyPattern-CoreJAva-PropertiesFile\src\main\resources
+2022-04-23 13:20:20,610 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,610 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj09-StrategyPattern-CoreJAva-PropertiesFile\src\test\resources
+2022-04-23 13:20:20,719 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,720 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj10-StrategyPattern-Spring\src\main\resources
+2022-04-23 13:20:20,723 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:20,724 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj10-StrategyPattern-Spring\src\test\resources
+2022-04-23 13:20:21,104 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:21,104 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj11-StrategyPattern-RealtimeDI-MiniProject\src\main\resources
+2022-04-23 13:20:21,109 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:21,113 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj11-StrategyPattern-RealtimeDI-MiniProject\src\test\resources
+2022-04-23 13:20:36,736 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:SpringCoreProj01-SetterInjection:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\pom.xml.
+2022-04-23 13:20:36,872 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:36,872 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\main\resources
+2022-04-23 13:20:36,875 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:20:36,875 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\test\resources
+2022-04-23 13:20:45,075 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-23 13:20:45,927 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nit:SpringCoreProj01-SetterInjection:0.0.1-SNAPSHOT @ E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\pom.xml.
+2022-04-23 13:20:46,114 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IOCProj01-SetterInjection/src/main/java
+2022-04-23 13:20:46,116 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IOCProj01-SetterInjection/src/test/java
+2022-04-23 13:20:48,901 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-04-23 13:21:05,609 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:21:05,610 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\main\resources
+2022-04-23 13:21:05,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:21:05,613 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\test\resources
+2022-04-23 13:22:02,969 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:22:02,970 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\main\resources
+2022-04-23 13:22:02,973 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-23 13:22:02,974 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Workspaces\Spring\NTSPBMS715\IOCProj01-SetterInjection\src\test\resources
